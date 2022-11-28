@@ -65,8 +65,3 @@
 ## **提交格式：**
 
 #####        请将5个ipynb生成5个pdf文件,打包成zip后上传！
-
-## **截止时间**：2022-11-27 23:59
-
-## **提交地址**：https://workspace.jianguoyun.com/inbox/collect/69848b63fb0e4f86ad964cf84b1fab3d/submit
-
